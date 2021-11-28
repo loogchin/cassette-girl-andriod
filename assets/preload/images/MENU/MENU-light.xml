@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MENU-light.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="menulight10000" x="0" y="0" width="1729" height="1875"/>
+	<SubTexture name="menulight10001" x="0" y="0" width="1729" height="1875"/>
+	<SubTexture name="menulight10002" x="1729" y="0" width="1729" height="1875"/>
+	<SubTexture name="menulight10003" x="1729" y="0" width="1729" height="1875"/>
+	<SubTexture name="menulight10004" x="0" y="1875" width="1729" height="1875"/>
+	<SubTexture name="menulight10005" x="0" y="1875" width="1729" height="1875"/>
+	<SubTexture name="menulight10006" x="0" y="0" width="1729" height="1875"/>
+	<SubTexture name="menulight10007" x="0" y="0" width="1729" height="1875"/>
+	<SubTexture name="menulight10008" x="0" y="0" width="1729" height="1875"/>
+	<SubTexture name="menulight10009" x="0" y="0" width="1729" height="1875"/>
+	<SubTexture name="menulight10010" x="0" y="0" width="1729" height="1875"/>
+	<SubTexture name="menulight10011" x="0" y="0" width="1729" height="1875"/>
+	<SubTexture name="menulight10012" x="0" y="0" width="1729" height="1875"/>
+	<SubTexture name="menulight10013" x="0" y="0" width="1729" height="1875"/>
+	<SubTexture name="menulight10014" x="0" y="0" width="1729" height="1875"/>
+	<SubTexture name="menulight10015" x="0" y="0" width="1729" height="1875"/>
+	<SubTexture name="menulight10016" x="0" y="0" width="1729" height="1875"/>
+	<SubTexture name="menulight10017" x="0" y="0" width="1729" height="1875"/>
+	<SubTexture name="menulight10018" x="0" y="0" width="1729" height="1875"/>
+	<SubTexture name="menulight10019" x="0" y="0" width="1729" height="1875"/>
+	<SubTexture name="menulight10020" x="0" y="0" width="1729" height="1875"/>
+	<SubTexture name="menulight10021" x="0" y="0" width="1729" height="1875"/>
+	<SubTexture name="menulight10022" x="0" y="0" width="1729" height="1875"/>
+	<SubTexture name="menulight10023" x="0" y="0" width="1729" height="1875"/>
+	<SubTexture name="menulight10024" x="0" y="0" width="1729" height="1875"/>
+	<SubTexture name="menulight10025" x="0" y="0" width="1729" height="1875"/>
+	<SubTexture name="menulight10026" x="0" y="0" width="1729" height="1875"/>
+	<SubTexture name="menulight10027" x="0" y="0" width="1729" height="1875"/>
+</TextureAtlas>

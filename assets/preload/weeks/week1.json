@@ -1,0 +1,43 @@
+{
+	"storyName": "MOMMY MUST MURDER",
+	"hideFreeplay": false,
+	"weekBackground": "cgstage",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"urmom lmfao",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"ukiyo",
+			"cg",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"earworm",
+			"cg",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"machina",
+			"cg",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 1"
+}
